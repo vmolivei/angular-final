@@ -26,7 +26,7 @@ export class GameService{
                 ){
 
         this.score = 0;
-        this.lives = 2;
+        this.lives = 6;
         this.level = 1; 
 
         this.gamePokemon = this._PokemonService.getRandPokemon(this.level, this.gamePokemon);
