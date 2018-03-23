@@ -1,0 +1,16 @@
+.scores-main{
+    float: right;
+    margin-right: 5%;
+    font-size: 1.2em;
+    color: rgb(255, 93, 0);
+    border-top: solid black;
+    border-bottom: solid black;
+    width: 10%;
+    padding: 15px;
+}
+
+/*.scores-captured{
+    float: left;
+    width: 100%;
+    color: rgb(255, 105, 0);
+}*/

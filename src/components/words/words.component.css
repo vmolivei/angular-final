@@ -1,0 +1,12 @@
+.words-main{
+    width: 60%;
+    margin: auto;
+}
+
+li{
+    float: left;
+    margin: 7px;
+}
+ul{
+    list-style:none;
+}

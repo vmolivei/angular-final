@@ -1,0 +1,12 @@
+<div class = "words-main">
+    <ul>
+        <li *ngFor = "let char of allWords">
+            <button mat-mini-fab [disabled] = "usedWords.indexOf(char) > -1" (click) = "wordClick(char)">
+                {{char}}
+            </button>    
+        </li>
+    </ul>
+</div>
+<div>
+    <p>{{rank}}</p>
+</div>

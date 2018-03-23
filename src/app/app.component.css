@@ -1,0 +1,55 @@
+.app-main{
+    color: rgb(255, 100, 0);
+}
+
+.app-gameWord{
+    font-size: 3em;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.app-gameWord ul{
+    list-style: none;
+}
+
+.app-gameWord li{
+    display: inline;
+    margin: 10px;
+    
+}
+
+.app-restart{
+    margin-top: 15%;
+    text-align: center;
+}
+
+.app-restart h3{
+    font-size: 1.3em;
+   
+    border-bottom: solid orangered;
+    width: 30%;
+    margin: auto;
+}
+
+.app-restart button{
+    text-align: center;
+    font-size: 1.7em;
+    color: rgb(230, 115, 0);
+    
+}
+
+.app-pokemon-silhouete{
+    margin: auto;
+    width: 8%;
+    margin-top: 5%;
+}
+
+.app-pokemon-silhouete img{
+    width: 100%;
+}
+
+.app-pokemon-captured h2{
+    float: left;
+    margin-left: 35%;
+    color: #00be00;
+}
